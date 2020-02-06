@@ -1,2 +1,3 @@
-# letters
-self designed letters A-Z
+self desinged letters
+messages
+Mondrian-inspired programs
